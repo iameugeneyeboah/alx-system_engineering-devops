@@ -1,1 +1,2 @@
-first git project
+#!/bin/bash
+official git project
