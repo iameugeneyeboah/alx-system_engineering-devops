@@ -1,2 +1,2 @@
 #!/bin/bash
-compgen -A variable -A export -A function | while read -r var; do declare -p "$var"; done
+set
